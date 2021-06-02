@@ -16,27 +16,4 @@ I was formed with a MVC methodology so Flask and microservices architectures are
 
 I have come across several Udemy courses like Web Development using Django, Api Development with Flask and Node as well. I am proficient with RDBMS like MySQL, SQL Server and Postgres. Know my way through some NoSQL like MongoDb and Redis. 
 
-
-![python](C:\Users\maxga\OneDrive\Pictures\pics\github-profile\python.png)
-
-![flask](C:\Users\maxga\OneDrive\Pictures\pics\github-profile/flask.png)
-
-![django](C:\Users\maxga\OneDrive\Pictures\pics\github-profile/django.png)
-
-![node](C:\Users\maxga\OneDrive\Pictures\pics\github-profile/nodedotjs.png)
-
-![postgres](C:\Users\maxga\OneDrive\Pictures\pics\github-profile/postgresql.png)
-
-![mysql](C:\Users\maxga\OneDrive\Pictures\pics\github-profile/mysql.png)
-
-![sqlserver](C:\Users\maxga\OneDrive\Pictures\pics\github-profile/microsoftsqlserver.png)
-
-![git](C:\Users\maxga\OneDrive\Pictures\pics\github-profile/git.png)
-
-![xaml](C:\Users\maxga\OneDrive\Pictures\pics\github-profile/xaml.png)
-
-![pycharm](C:\Users\maxga\OneDrive\Pictures\pics\github-profile/pycharm.png)
-
-![codewars](C:\Users\maxga\OneDrive\Pictures\pics\github-profile/codewars.png)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stinger14)](https://github.com/anuraghazra/github-readme-stats)
