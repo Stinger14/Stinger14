@@ -16,16 +16,27 @@ I was formed with a MVC methodology so Flask and microservices architectures are
 
 I have come across several Udemy courses like Web Development using Django, Api Development with Flask and Node as well. I am proficient with RDBMS like MySQL, SQL Server and Postgres. Know my way through some NoSQL like MongoDb and Redis. 
 
-<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/python.png">
-<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/flask.png">
-<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/django.png">
-<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/nodedotjs.png">
-<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/postgresql.png">
-<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/mysql.png">
-<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/microsoftsqlserver.png">
-<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/git.png">
-<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/xaml.png">
-<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/pycharm.png">
-<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/codewars.png">
+
+![python](<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile\python.png">)
+
+![flask](<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/flask.png">)
+
+![django](<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/django.png">)
+
+![node](<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/nodedotjs.png">)
+
+![postgres](<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/postgresql.png">)
+
+![mysql](<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/mysql.png">)
+
+![sqlserver](<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/microsoftsqlserver.png">)
+
+![git](<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/git.png">)
+
+![xaml](<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/xaml.png">)
+
+![pycharm](<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/pycharm.png">)
+
+![codewars](<img height="20"src="C:\Users\maxga\OneDrive\Pictures\pics\github-profile/codewars.png">)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stinger14)](https://github.com/anuraghazra/github-readme-stats)
