@@ -4,16 +4,16 @@
 
 ## About me :eyes:
 ---
-I am Maxly García, a python/web developer (specialized in backend web development) pursuing frontend for the fullstack achivement. 
+I am Maxly García, a python/web developer (backend focused) pursuing frontend. 
 
 ![twitter](https://img.shields.io/twitter/follow/Max_Sting?style=social)
 
-You could say i love learning new stuff and always on the lookout for better ways to do things. New tech excites me just as much as basketball, yes i'm a baller :basketball: and that's how i blow steam.
+You could say i love learning new stuff and always on the lookout for better ways to do things. New tech excites me just as much as basketball, ball is life :basketball: .
 
-Just recently started contributing to Open Source Projects and really enjoy the feeling of being part of something bigger. In 2021 started to learn React :rocket:, trying to add the frontend to my stack. 
+Just recently started contributing to Open Source Projects and really enjoy the feeling of being part of something bigger. In 2021 started to learn React. :rocket:
 
-I was formed with a MVC methodology so Flask and microservices architectures are my thing, design patterns in python too. Coming across codewars :computer: some time ago made me have a thing for Big O and realize how algorithms can be double-edge swords, since then i like to implement different approaches in order to get a better solution. 
+I was formed with a MVC methodology so Flask and microservices architectures are my thing, design patterns & Big O ftw. Love **codewars** :computer:.
 
-I have come across several Udemy courses like Web Development using Django, Api Development with Flask and Node as well. I am proficient with RDBMS like MySQL, SQL Server and Postgres. Know my way through some NoSQL like MongoDb and Redis. 
+I have come across several Udemy courses like Web Development using Django, Api Development with Flask and Node as well. I am proficient with RDBMS like MySQL, SQL Server, Postgres, Redis and MongoDB. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stinger14)](https://github.com/anuraghazra/github-readme-stats)
