@@ -27,5 +27,6 @@ Focused on distributed systems and maintainable architecture (microservices and 
 
 ## Connect
 - Website: https://izihub.gigalixirapp.com
+- GitHub alias: https://github.com/ghost1ndshell
 
 [![Maxly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stinger14&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
