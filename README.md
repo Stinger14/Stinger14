@@ -26,7 +26,7 @@ Focused on distributed systems and maintainable architecture (microservices and 
 - **Infra/Tools** &rarr; Docker, Kubernetes, GCP, Git, GitHub Actions, Grafana, Codex
 
 ## Connect
-- Website: https://izihub.gigalixirapp.com
+- Website: https://izihub-api.gigalixirapp.com
 - GitHub alias: https://github.com/ghost1ndshell
 
 [![Maxly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stinger14&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
